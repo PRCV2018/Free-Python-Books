@@ -109,6 +109,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Python Interviews - Discussions with prolific programmers [[Download]](/book/Python%20Interviews%20-%20Discussions%20with%20prolific%20programmers.epub)
 * Python Microservices Development [[Download]](/book/Python%20Microservices%20Development.epub)
 * Python Network Programming Cookbook [[Download]](/book/Python%20Network%20Programming%20Cookbook.pdf)
+* Python Notes for Professionals [[Download]](https://goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
 * Python Parallel Programming Cookbook [[Download]](/book/Python%20Parallel%20Programming%20Cookbook.pdf)
 * Python Playground [[Download]](/book/Python%20Playground.epub)
 * Python Pocket Reference - Fourth Edition [[Download]](/book/Python%20Pocket%20Reference%20-%20Fourth%20Edition.pdf)
